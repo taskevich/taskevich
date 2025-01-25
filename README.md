@@ -8,7 +8,7 @@ I love to solve and explore complex problems, always looking for professional gr
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
 <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
