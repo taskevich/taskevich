@@ -4,23 +4,18 @@ Hi, my name is Vadim Odnoburtsev and I am a Web Developer with extensive experie
 
 I love to solve and explore complex problems, always looking for professional growth.
 
-## My Skills
+## Promgrammig on
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+
+## Use DBMS
+
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
-<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 
 ## GitHub Stats
 
