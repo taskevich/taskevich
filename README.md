@@ -1,6 +1,6 @@
 ### About me
 
-<p align="left">Hi, my name is Vadim Odnoburtsev and I am a Web Developer with extensive experience and knowledge in development.<br><br>I love to solve and explore complex problems, always looking for professional growth.</p>
+<p align="left">Hi, my name is Vadim Odnoburtsev, I am a web developer with extensive commercial and non-commercial experience and development knowledge.<br><br>I love to solve and explore complex problems, always looking for professional growth.</p>
 
 ### Programming on
 
