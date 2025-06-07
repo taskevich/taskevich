@@ -1,8 +1,10 @@
 ### About me
 
-<p align="left">Hi, my name is Vadim Odnoburtsev, I am a web developer with extensive commercial and non-commercial experience and development knowledge.<br><br>I love to solve and explore complex problems, always looking for professional growth.</p>
+<p align="left">
+  Я Python backend разработчик с 3+ годами опыта коммерческой разработки высоконагруженных систем. Обладаю глубокими знаниями разработки на Python с использованием различных технологий.
+</p>
 
-### Programming on
+### Разрабатываю на языках
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -12,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-### Most used technologies
+### Часто используемые мной технологии
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
