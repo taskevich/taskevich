@@ -41,5 +41,5 @@
 
 ### 📫 Как связаться   
 - 💬 Telegram: [@t4skevich](https://t.me/t4skevich)  
-- 🌍 GitHub: [github.com/твой_логин](https://github.com/t4skevich)  
+- 🌍 GitHub: [github.com/taskevich](https://github.com/taskevich)  
 
